@@ -11,9 +11,9 @@ off\on to the machine or the machine is restarted, in some cases these can immed
 This script will fix this issue by fully removing all Xerox printers from the affected device. 
 
 This includes:
-Fully removing all Xerox drivers
-All registry entries
-Fully removing Xerox Print Experience
+1. Fully removing all Xerox drivers
+2. All registry entries
+3. Fully removing Xerox Print Experience
 
 #### How to use:
 
