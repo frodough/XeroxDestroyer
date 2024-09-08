@@ -1,4 +1,4 @@
-# XeroxDestroyer
+# Xerox Destroyer
 Remove ghost printer entries caused by the Xerox Print Experiencce
 
 ### What does the script do?:
