@@ -17,7 +17,7 @@ This includes:
 
 ### Why is this called Xerox Destroyer?:
 
-Ha no this will not destroy any printer or cause any harm. After dealing with a couple hundred to a thousand computers that were all having this exact issue, I made it my mission to obliterate the constant notifications and hundreds of fake printers that clogged up users print menu, hence the title.
+After dealing with a couple hundred to a thousand computers that were all having this exact issue, I made it my mission to obliterate the constant notifications and hundreds of fake printers that clogged up users print menu, hence the title.
 
 ### How to use:
 
